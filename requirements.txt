@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-SocketIO==5.3.6
+folium==0.15.1
+geopandas==0.13.2
+shapely==2.0.1
+pymysql==1.1.0
+pyproj==3.6.1
+gunicorn==21.2.0
+eventlet==0.33.3
+python-dotenv==1.0.0
